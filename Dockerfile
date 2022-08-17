@@ -1,6 +1,7 @@
 #Simple Docker File
 #dhgfhdgfh
 #khldd
+#duitdrs
 FROM golang:1.13
 RUN mkdir /app
 ADD . /app
