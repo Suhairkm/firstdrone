@@ -2,6 +2,7 @@
 #dhgfhdgfh
 #khldd
 #duitdrs
+#message
 FROM golang:1.13
 RUN mkdir /app
 ADD . /app
